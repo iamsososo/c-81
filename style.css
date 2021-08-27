@@ -1,0 +1,5 @@
+.bg{
+    background-image:url("bg1.jpg");
+    background-size: cover; background-position:center ;
+}
+#mc{border:10px ridge turquoise;}
